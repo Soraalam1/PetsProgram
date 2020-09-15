@@ -1,5 +1,5 @@
 public class Cat extends Pet {
-    String name;
+    private String name;
 
     @Override
     public String Speak(){

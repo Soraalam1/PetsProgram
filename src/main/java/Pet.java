@@ -1,5 +1,5 @@
 public class Pet {
-    String name;
+    private String name;
 
 
     public String Speak(){
